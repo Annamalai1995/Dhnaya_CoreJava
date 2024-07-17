@@ -1,4 +1,4 @@
-package Constuctor;
+package Core_java.Constuctor;
 
 public class democopy_constructor {
 

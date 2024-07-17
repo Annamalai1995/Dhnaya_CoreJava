@@ -1,4 +1,4 @@
-package Constuctor;
+package Core_java.Constuctor;
 
 public class DemoArguments {
     String collegename = "Karpagam college";

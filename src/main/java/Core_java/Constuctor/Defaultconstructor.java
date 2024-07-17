@@ -1,4 +1,4 @@
-package Constuctor;
+package Core_java.Constuctor;
 
 public class Defaultconstructor {
     public void details()
@@ -8,6 +8,7 @@ public class Defaultconstructor {
     //Default
     public  Defaultconstructor()
     {
+
         System.out.println("Annamalai");
     }
 

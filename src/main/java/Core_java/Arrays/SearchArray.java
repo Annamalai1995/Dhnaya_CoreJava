@@ -9,7 +9,7 @@ public class SearchArray {
         Scanner scan=new Scanner(System.in);
 
         System.out.println(Actor.length);
-        System.out.println("Tell us What is Your favoriate actoress");
+        System.out.println("Tell us What is Your favoriate actor");
         String favor=scan.next();
 
         for(int pos=0;pos<Actor.length;pos++)
@@ -20,6 +20,7 @@ public class SearchArray {
                 System.out.println(favor+" Actor is founded");
                 return;
             }
+
 		//else
 		//	{
 		//		System.out.println(favor+" actress is not founded");
